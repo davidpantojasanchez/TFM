@@ -2,7 +2,7 @@ Code of the Master's thesis "Analysis of complexity and practical resolution of 
 
 ABSTRACT
 
-This Master Thesis is a study of the data classification problem with private characteristics. This problem has numerous applications that are very relevant nowadays. We are going to focus on its application in the design of non-discriminatory personnel selection processes.
+This Master's thesis is a study of the data classification problem with private characteristics. This problem has numerous applications that are very relevant nowadays. We are going to focus on its application in the design of non-discriminatory personnel selection processes.
 
 We will start by explaining some problems that will be useful in the study, such as the deterministic adaptive test decision problem, and defining the variants of the data classification problem that we will analyze.
 
